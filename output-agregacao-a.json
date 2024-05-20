@@ -1,0 +1,2172 @@
+{
+    "Alunos": [],
+    "Codicred": "19803-02",
+    "Horarios": "6AB",
+    "Professor": "Fernando",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "1982J-02",
+    "Horarios": "5CD",
+    "Professor": "Fabiano",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "198BR-02",
+    "Horarios": "2AB",
+    "Professor": "Fernando",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "198BS-02",
+    "Horarios": "2CD",
+    "Professor": "Sabrina",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "34648-02",
+    "Horarios": "3CD",
+    "Professor": "Duncan",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "34655-02",
+    "Horarios": "2AB",
+    "Professor": "Milene",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "4113S-04",
+    "Horarios": "2JK6JK",
+    "Professor": "Cintia",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4115P-02",
+    "Horarios": "6JK",
+    "Professor": "Daniela",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4117D-04",
+    "Horarios": "4EX5EX",
+    "Professor": "Maria",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "4421E-04",
+    "Horarios": "4LM4NP",
+    "Professor": "Raul",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4422H-02",
+    "Horarios": "4JK",
+    "Professor": "Raul",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4422H-02",
+    "Horarios": "3LM",
+    "Professor": "Raul",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "4441F-04",
+    "Horarios": "5LM5NP",
+    "Professor": "Filipi",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4456C-04",
+    "Horarios": "4JK6JK",
+    "Professor": "Fernando",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4456W-02",
+    "Horarios": "2CD",
+    "Professor": "Fernando",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "44657-04",
+    "Horarios": "3NP5NP",
+    "Professor": "Alencar",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4470S-02",
+    "Horarios": "5JK",
+    "Professor": "Filipe",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4471A-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Alvaro",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4471H-02",
+    "Horarios": "4HI",
+    "Professor": "Alvaro",
+    "Turma": 20,
+}
+{
+    "Alunos": [],
+    "Codicred": "4471U-04",
+    "Horarios": "2LM2NP",
+    "Professor": "Alvaro",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4471V-02",
+    "Horarios": "4JK",
+    "Professor": "Alvaro",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4471V-02",
+    "Horarios": "4LM",
+    "Professor": "Alvaro",
+    "Turma": 31,
+}
+{
+    "Alunos": [{"Matricula": 21201018, "Nome": "Carla da Silva"}],
+    "Codicred": "4611C-06",
+    "Horarios": "2CD4CD6CD",
+    "Professor": "Lucia",
+    "Turma": 10,
+}
+{
+    "Alunos": [{"Matricula": 21206067, "Nome": "Rogerio da Silva"}],
+    "Codicred": "4611C-06",
+    "Horarios": "2CD4CD6CD",
+    "Professor": "Andrea",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611C-06",
+    "Horarios": "2CD4CD6CD",
+    "Professor": "Adriana",
+    "Turma": 12,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611C-06",
+    "Horarios": "2CD4CD6CD",
+    "Professor": "Marco",
+    "Turma": 13,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611C-06",
+    "Horarios": "2EX4EX6EX",
+    "Professor": "Adriana",
+    "Turma": 14,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611C-06",
+    "Horarios": "2EX4EX6EX",
+    "Professor": "Lucia",
+    "Turma": 15,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611C-06",
+    "Horarios": "2CD4CD6CD",
+    "Professor": "Otavio",
+    "Turma": 16,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611C-06",
+    "Horarios": "2JK4JK6JK",
+    "Professor": "Ana",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611C-06",
+    "Horarios": "2JK4JK6JK",
+    "Professor": "Andrea",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611C-06",
+    "Horarios": "2LM4LM6LM",
+    "Professor": "Andrea",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611C-06",
+    "Horarios": "2LM4LM6LM",
+    "Professor": "Daniela",
+    "Turma": 33,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611C-06",
+    "Horarios": "2JK4JK6JK",
+    "Professor": "Otavio",
+    "Turma": 34,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611E-04",
+    "Horarios": "2CD4CD",
+    "Professor": "Luan",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611E-04",
+    "Horarios": "2EX4EX",
+    "Professor": "Luan",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611E-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Michael",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611E-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Luan",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611F-04",
+    "Horarios": "2CD4CD",
+    "Professor": "Bernardo",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611F-04",
+    "Horarios": "2CD4CD",
+    "Professor": "Edson",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611F-04",
+    "Horarios": "2EX4EX",
+    "Professor": "Bernardo",
+    "Turma": 12,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611F-04",
+    "Horarios": "2NP4NP",
+    "Professor": "Marcelo",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611F-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Marcelo",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611F-04",
+    "Horarios": "2JK4JK",
+    "Professor": "Marcelo",
+    "Turma": 33,
+}
+{
+    "Alunos": [],
+    "Codicred": "4611F-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Daniel",
+    "Turma": 34,
+}
+{
+    "Alunos": [],
+    "Codicred": "4620J-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Roland",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4636H-04",
+    "Horarios": "2JK4JK",
+    "Professor": "Bernardo",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4636H-04",
+    "Horarios": "2JK4JK",
+    "Professor": "Alexandre",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "4636H-04",
+    "Horarios": "3NP5NP",
+    "Professor": "Marcelo",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "4636M-02",
+    "Horarios": "4JK",
+    "Professor": "Marcelo",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4636P-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Jorge",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4637B-04",
+    "Horarios": "2NP4NP",
+    "Professor": "Michael",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4637D-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Azriel",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645G-04",
+    "Horarios": "3CD5CD",
+    "Professor": "Isabel",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645G-04",
+    "Horarios": "3CD5CD",
+    "Professor": "Eduarda",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645G-04",
+    "Horarios": "3CD5CD",
+    "Professor": "Iacana",
+    "Turma": 12,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645G-04",
+    "Horarios": "3EX5EX",
+    "Professor": "Alexandre",
+    "Turma": 13,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645G-04",
+    "Horarios": "3CD5CD",
+    "Professor": "Roland",
+    "Turma": 14,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645G-04",
+    "Horarios": "3EX5EX",
+    "Professor": "Edson",
+    "Turma": 15,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645G-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Isabel",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645G-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Aline",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645G-04",
+    "Horarios": "2NP4NP",
+    "Professor": "Aline",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645G-04",
+    "Horarios": "2NP4NP",
+    "Professor": "Leonardo",
+    "Turma": 33,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645G-04",
+    "Horarios": "2JK4JK",
+    "Professor": "Luan",
+    "Turma": 34,
+}
+{
+    "Alunos": [{"Matricula": 21112192, "Nome": "Vanessa da Silva"}],
+    "Codicred": "4645H-04",
+    "Horarios": "3AB5AB",
+    "Professor": "Alexandre",
+    "Turma": 10,
+}
+{
+    "Alunos": [{"Matricula": 23102628, "Nome": "Pedro Fam Haggstram"}],
+    "Codicred": "4645H-04",
+    "Horarios": "3AB5AB",
+    "Professor": "Marcelo",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645H-04",
+    "Horarios": "3AB5AB",
+    "Professor": "Marco",
+    "Turma": 12,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645H-04",
+    "Horarios": "3AB5AB",
+    "Professor": "Edson",
+    "Turma": 13,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645H-04",
+    "Horarios": "3EX5EX",
+    "Professor": "Eduarda",
+    "Turma": 16,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645H-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Marcelo",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645H-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Leonardo",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645H-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Eduarda",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645H-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Eduarda",
+    "Turma": 33,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645H-04",
+    "Horarios": "2JK4JK",
+    "Professor": "Eduarda",
+    "Turma": 34,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645H-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Marco",
+    "Turma": 35,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645J-04",
+    "Horarios": "3JK5JK",
+    "Professor": "César",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4645K-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Alexandre",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4646B-04",
+    "Horarios": "3AB5AB",
+    "Professor": "Fernando",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "4646B-04",
+    "Horarios": "3AB5AB",
+    "Professor": "Iacana",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "4646B-04",
+    "Horarios": "3AB5AB",
+    "Professor": "Marlon",
+    "Turma": 12,
+}
+{
+    "Alunos": [],
+    "Codicred": "4646B-04",
+    "Horarios": "3AB5AB",
+    "Professor": "Edson",
+    "Turma": 13,
+}
+{
+    "Alunos": [],
+    "Codicred": "4646B-04",
+    "Horarios": "3CD5CD",
+    "Professor": "Marlon",
+    "Turma": 14,
+}
+{
+    "Alunos": [],
+    "Codicred": "4646I-04",
+    "Horarios": "4JK6JK",
+    "Professor": "Miguel",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4646M-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Júlio",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4646M-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Júlio",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "4646N-04",
+    "Horarios": "3NP5NP",
+    "Professor": "João",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4646X-04",
+    "Horarios": "2JK6JK",
+    "Professor": "Marcelo",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4646X-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Marcelo",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "4646Z-04",
+    "Horarios": "3JK5JK",
+    "Professor": "João",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4646Z-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Rafael",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "4646Z-04",
+    "Horarios": "2LM4LM",
+    "Professor": "João",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "4647A-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Tiago",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4647B-04",
+    "Horarios": "2JK4JK",
+    "Professor": "Fernando",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "4647F-04",
+    "Horarios": "4JK6LM",
+    "Professor": "João",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "46504-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Eduardo",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "46504-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Miguel",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "46506-04",
+    "Horarios": "2NP4NP",
+    "Professor": "Azriel",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "46506-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Sabrina",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "46506-04",
+    "Horarios": "2JK4JK",
+    "Professor": "Azriel",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "46506-04",
+    "Horarios": "3NP5NP",
+    "Professor": "Azriel",
+    "Turma": 33,
+}
+{
+    "Alunos": [],
+    "Codicred": "46507-02",
+    "Horarios": "2JK",
+    "Professor": "Sabrina",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "46509-02",
+    "Horarios": "6JK",
+    "Professor": "Daniel",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "46509-02",
+    "Horarios": "6JK",
+    "Professor": "Michael",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "46510-04",
+    "Horarios": "6LM6NP",
+    "Professor": "Rafael",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "46510-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Eduardo",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "46514-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Andrea",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "46514-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Marco",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "46517-02",
+    "Horarios": "3LM",
+    "Professor": "Sabrina",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "46522-04",
+    "Horarios": "2JK4JK",
+    "Professor": "Alessandra",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "46522-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Marcelo",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "46522-04",
+    "Horarios": "6LM6NP",
+    "Professor": "Ana",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "46522-04",
+    "Horarios": "6LM6NP",
+    "Professor": "Michael",
+    "Turma": 33,
+}
+{
+    "Alunos": [],
+    "Codicred": "46523-04",
+    "Horarios": "2JK4JK",
+    "Professor": "Daniel",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "46523-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Michael",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "46523-04",
+    "Horarios": "6LM6NP",
+    "Professor": "Azriel",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "46524-04",
+    "Horarios": "2JK4JK",
+    "Professor": "Edson",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "46524-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Dilnei",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "46524-04",
+    "Horarios": "6LM6NP",
+    "Professor": "Afonso",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "46525-04",
+    "Horarios": "2JK4JK",
+    "Professor": "Rafael",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "46525-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Cristina",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "46525-04",
+    "Horarios": "6LM6NP",
+    "Professor": "Jorge",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "46526-02",
+    "Horarios": "5LM",
+    "Professor": "Marcelo",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "46526-02",
+    "Horarios": "3LM",
+    "Professor": "Marcelo",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "46526-02",
+    "Horarios": "5LM",
+    "Professor": "Miguel",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "46526-02",
+    "Horarios": "3LM",
+    "Professor": "Roland",
+    "Turma": 33,
+}
+{
+    "Alunos": [],
+    "Codicred": "46528-02",
+    "Horarios": "5LM",
+    "Professor": "Roland",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "48144-02",
+    "Horarios": "2JK",
+    "Professor": "Renato",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "48185-06",
+    "Horarios": "2JK3LF3GH",
+    "Professor": "Paulo",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "48191-04",
+    "Horarios": "4JK5FG",
+    "Professor": "Paulo",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "48238-02",
+    "Horarios": "3JK",
+    "Professor": "Julio",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "48239-03",
+    "Horarios": "3FG3HI",
+    "Professor": "Maturino",
+    "Turma": 20,
+}
+{
+    "Alunos": [],
+    "Codicred": "48242-03",
+    "Horarios": "3LM3NP",
+    "Professor": "Maturino",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "48251-03",
+    "Horarios": "5HI5JK",
+    "Professor": "Maturino",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "48257-03",
+    "Horarios": "2LM2NP",
+    "Professor": "Maturino",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "54439-03",
+    "Horarios": "3HI3JK",
+    "Professor": "Rosane",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "54447-03",
+    "Horarios": "4HI4JK",
+    "Professor": "Ricardo",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "54602-02",
+    "Horarios": "6CD",
+    "Professor": "Soraia",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "54672-02",
+    "Horarios": "5AB",
+    "Professor": "Avelino",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "54685-02",
+    "Horarios": "4CD",
+    "Professor": "Lucas",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "54688-02",
+    "Horarios": "3AB",
+    "Professor": "Isabel",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "64483-03",
+    "Horarios": "6FG6HI",
+    "Professor": "Marcus",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "64484-03",
+    "Horarios": "5HI5JK",
+    "Professor": "Eduardo",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "84417-03",
+    "Horarios": "3FG3HI",
+    "Professor": "Eleani",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "94432-03",
+    "Horarios": "5FG5HI",
+    "Professor": "Ricardo",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "94455-03",
+    "Horarios": "4FG4HI",
+    "Professor": "Rosane",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "94462-03",
+    "Horarios": "6FG6HI",
+    "Professor": "Izete",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "94489-03",
+    "Horarios": "2HI2JK",
+    "Professor": "Marcal",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "95300-04",
+    "Horarios": "3CD5CD",
+    "Professor": "Isabel",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "95300-04",
+    "Horarios": "3CD5CD",
+    "Professor": "Marcia",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "95300-04",
+    "Horarios": "3CD5CD",
+    "Professor": "Karina",
+    "Turma": 13,
+}
+{
+    "Alunos": [],
+    "Codicred": "95300-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Pedro",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "95300-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Daniela",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "95300-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Marcia",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "95301-04",
+    "Horarios": "2AB4AB",
+    "Professor": "Ivan",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "95302-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Marcia",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "95302-04",
+    "Horarios": "6LM6NP",
+    "Professor": "Ivan",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "95302-04",
+    "Horarios": "3NP5NP",
+    "Professor": "Pedro",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "95302-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Cintia",
+    "Turma": 33,
+}
+{
+    "Alunos": [],
+    "Codicred": "95303-04",
+    "Horarios": "2AB4AB",
+    "Professor": "Karina",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "95303-04",
+    "Horarios": "2CD4CD",
+    "Professor": "Cintia",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "95303-04",
+    "Horarios": "2EX4EX",
+    "Professor": "Iuri",
+    "Turma": 12,
+}
+{
+    "Alunos": [],
+    "Codicred": "95303-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Iuri",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "95303-04",
+    "Horarios": "2NP4NP",
+    "Professor": "Karina",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "95303-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Karina",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "95304-04",
+    "Horarios": "2AB4AB",
+    "Professor": "Sergio",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "95304-04",
+    "Horarios": "2AB4AB",
+    "Professor": "Barbara",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "95304-04",
+    "Horarios": "2JK4JK",
+    "Professor": "Filipe",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "95304-04",
+    "Horarios": "2NP4NP",
+    "Professor": "Sergio",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "95305-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Augusto",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98003-04",
+    "Horarios": "4HI6FG",
+    "Professor": "Lisandra",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "98007-04",
+    "Horarios": "2JK4JK",
+    "Professor": "Luis",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98007-04",
+    "Horarios": "2JK4JK",
+    "Professor": "Luis",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98007-04",
+    "Horarios": "4JK6JK",
+    "Professor": "Rafael",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "98007-04",
+    "Horarios": "4JK6JK",
+    "Professor": "Patricia",
+    "Turma": 33,
+}
+{
+    "Alunos": [],
+    "Codicred": "98402-02",
+    "Horarios": "6LM",
+    "Professor": "Leticia",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98608-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Alvaro",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98610-02",
+    "Horarios": "6LM",
+    "Professor": "Allan",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98700-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Fabiano",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98700-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Fernando",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98700-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Sergio",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "98701-04",
+    "Horarios": "3CD5CD",
+    "Professor": "Marcelo",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98701-04",
+    "Horarios": "3CD5CD",
+    "Professor": "Edson",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "98701-04",
+    "Horarios": "3CD5CD",
+    "Professor": "Anderson",
+    "Turma": 12,
+}
+{
+    "Alunos": [],
+    "Codicred": "98701-04",
+    "Horarios": "3CD5CD",
+    "Professor": "Marco",
+    "Turma": 13,
+}
+{
+    "Alunos": [],
+    "Codicred": "98702-04",
+    "Horarios": "6AB7AB",
+    "Professor": "Soraia",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98702-04",
+    "Horarios": "6AB7AB",
+    "Professor": "Milene",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "98702-04",
+    "Horarios": "6AB7AB",
+    "Professor": "Dalvan",
+    "Turma": 12,
+}
+{
+    "Alunos": [],
+    "Codicred": "98703-02",
+    "Horarios": "6JK",
+    "Professor": "Júlio",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98703-02",
+    "Horarios": "6JK",
+    "Professor": "Eduarda",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98704-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Azriel",
+    "Turma": 30,
+}
+{
+    "Alunos": [{"Matricula": 22280027, "Nome": "Katia da Silva"}],
+    "Codicred": "98705-02",
+    "Horarios": "6AB",
+    "Professor": "Andrea",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98705-02",
+    "Horarios": "6CD",
+    "Professor": "Alexandre",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "98705-02",
+    "Horarios": "6AB",
+    "Professor": "Cristina",
+    "Turma": 12,
+}
+{
+    "Alunos": [],
+    "Codicred": "98705-02",
+    "Horarios": "6LM",
+    "Professor": "Eduarda",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98705-02",
+    "Horarios": "6NP",
+    "Professor": "Andrea",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98705-02",
+    "Horarios": "6LM",
+    "Professor": "Marco",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "98706-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Otavio",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98707-02",
+    "Horarios": "3AB",
+    "Professor": "Soraia",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98707-02",
+    "Horarios": "3AB",
+    "Professor": "Daniela",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "98707-02",
+    "Horarios": "3AB",
+    "Professor": "Dalvan",
+    "Turma": 12,
+}
+{
+    "Alunos": [],
+    "Codicred": "98708-04",
+    "Horarios": "3NP5NP",
+    "Professor": "Silvia",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98708-04",
+    "Horarios": "3NP5NP",
+    "Professor": "Lucas",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98708-04",
+    "Horarios": "2NP4NP",
+    "Professor": "Silvia",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "98709-04",
+    "Horarios": "2NP4NP",
+    "Professor": "Cristina",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98709-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Cristina",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98710-02",
+    "Horarios": "2JK",
+    "Professor": "Ana",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98710-02",
+    "Horarios": "2LM",
+    "Professor": "Cristina",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98710-02",
+    "Horarios": "2NP",
+    "Professor": "Sergio",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "98712-04",
+    "Horarios": "2CD4CD",
+    "Professor": "João",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98712-04",
+    "Horarios": "2CD4CD",
+    "Professor": "Roland",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "98713-04",
+    "Horarios": "2LM4LM",
+    "Professor": "César",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98713-04",
+    "Horarios": "2NP4NP",
+    "Professor": "Fernando",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98713-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Marcelo",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "98713-04",
+    "Horarios": "2NP4NP",
+    "Professor": "Marcelo",
+    "Turma": 33,
+}
+{
+    "Alunos": [],
+    "Codicred": "98715-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Avelino",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98716-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Márcio",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98718-04",
+    "Horarios": "2AB4AB",
+    "Professor": "Roland",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98719-02",
+    "Horarios": "5JK",
+    "Professor": "Sergio",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98721-04",
+    "Horarios": "2JK4JK",
+    "Professor": "Soraia",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98800-04",
+    "Horarios": "3AB5AB",
+    "Professor": "Fabiano",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98800-04",
+    "Horarios": "3NP5NP",
+    "Professor": "Sergio",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98800-04",
+    "Horarios": "3NP5NP",
+    "Professor": "Marcelo",
+    "Turma": 31,
+}
+{
+    "Alunos": [{"Matricula": 21108293, "Nome": "Marcelo da Silva"}],
+    "Codicred": "98801-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Ana",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98801-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Dilnei",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98802-02",
+    "Horarios": "4NP",
+    "Professor": "Júlio",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98802-02",
+    "Horarios": "4LM",
+    "Professor": "Miguel",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98900-02",
+    "Horarios": "3JK",
+    "Professor": "Ana",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98900-02",
+    "Horarios": "5JK",
+    "Professor": "Ana",
+    "Turma": 31,
+}
+{
+    "Alunos": [
+        {"Matricula": 21108293, "Nome": "Marcelo da Silva"},
+        {"Matricula": 21112046, "Nome": "Tiago da Silva"},
+    ],
+    "Codicred": "98901-04",
+    "Horarios": "6AB6CD",
+    "Professor": "Duncan",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98901-04",
+    "Horarios": "6AB6CD",
+    "Professor": "Denise",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "98901-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Azriel",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98901-04",
+    "Horarios": "6LM6NP",
+    "Professor": "Aline",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98903-02",
+    "Horarios": "6JK",
+    "Professor": "Azriel",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98903-02",
+    "Horarios": "6JK",
+    "Professor": "Jorge",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98904-04",
+    "Horarios": "3NP5NP",
+    "Professor": "Júlio",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98905-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Milene",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98905-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Rafael",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98905-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Milene",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "98905-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Silvia",
+    "Turma": 33,
+}
+{
+    "Alunos": [],
+    "Codicred": "98906-04",
+    "Horarios": "2NP4NP",
+    "Professor": "Bernardo",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98906-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Bernardo",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98907-02",
+    "Horarios": "3JK",
+    "Professor": "Eduardo",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98A02-02",
+    "Horarios": "2HI",
+    "Professor": "Aline",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98A02-02",
+    "Horarios": "5AB",
+    "Professor": "Aline",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "98A08-04",
+    "Horarios": "6AB6CD",
+    "Professor": "Claudia",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98A0L-02",
+    "Horarios": "2AB",
+    "Professor": "Aline",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98A0L-02",
+    "Horarios": "5HI",
+    "Professor": "Aline",
+    "Turma": 20,
+}
+{
+    "Alunos": [],
+    "Codicred": "98A0W-02",
+    "Horarios": "3AB",
+    "Professor": "Aline",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98A0W-02",
+    "Horarios": "4CD",
+    "Professor": "Aline",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B01-04",
+    "Horarios": "3HI5HI",
+    "Professor": "Denize",
+    "Turma": 20,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B01-04",
+    "Horarios": "3HI5HI",
+    "Professor": "Luciano",
+    "Turma": 21,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B01-04",
+    "Horarios": "3LM4LM",
+    "Professor": "Denize",
+    "Turma": 22,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B01-04",
+    "Horarios": "2NP5NP",
+    "Professor": "Renato",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B01-04",
+    "Horarios": "2NP5LM",
+    "Professor": "Beatriz",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B01-04",
+    "Horarios": "4NP5LM",
+    "Professor": "Denize",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B01-04",
+    "Horarios": "2NP4NP",
+    "Professor": "Rodrigo",
+    "Turma": 33,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B02-04",
+    "Horarios": "4FG4HI",
+    "Professor": "Paulo",
+    "Turma": 20,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B02-04",
+    "Horarios": "4FG4HI",
+    "Professor": "Leila",
+    "Turma": 21,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B02-04",
+    "Horarios": "4FG4HI",
+    "Professor": "Maria",
+    "Turma": 23,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B03-04",
+    "Horarios": "3FG5FG",
+    "Professor": "Paulo",
+    "Turma": 20,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B03-04",
+    "Horarios": "3FG5FG",
+    "Professor": "Beatriz",
+    "Turma": 21,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B03-04",
+    "Horarios": "3HI5HI",
+    "Professor": "Rodrigo",
+    "Turma": 22,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B04-02",
+    "Horarios": "2JK",
+    "Professor": "Marcio",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B04-02",
+    "Horarios": "2JK",
+    "Professor": "Jose",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B08-04",
+    "Horarios": "2HI5JK",
+    "Professor": "Paulo",
+    "Turma": 20,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B08-04",
+    "Horarios": "2LM4HI",
+    "Professor": "Renato",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B09-04",
+    "Horarios": "2JK4JK",
+    "Professor": "Raquel",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B11-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Denize",
+    "Turma": 20,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B11-04",
+    "Horarios": "4FG4HI",
+    "Professor": "Beatriz",
+    "Turma": 21,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B11-04",
+    "Horarios": "2JK4HI",
+    "Professor": "Rodrigo",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98B11-04",
+    "Horarios": "2LM6JK",
+    "Professor": "Denize",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98D01-02",
+    "Horarios": "2JK",
+    "Professor": "Marcelo",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "98D01-02",
+    "Horarios": "2LM",
+    "Professor": "Marcelo",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98E04-04",
+    "Horarios": "4NP6JK",
+    "Professor": "Andre",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98F29-04",
+    "Horarios": "2AB4AB",
+    "Professor": "Filipe",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98F30-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Filipe",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98F31-04",
+    "Horarios": "3NP5NP",
+    "Professor": "Augusto",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98F33-04",
+    "Horarios": "3CD5CD",
+    "Professor": "Augusto",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98F43-02",
+    "Horarios": "3NP",
+    "Professor": "Daniela",
+    "Turma": 1,
+}
+{
+    "Alunos": [],
+    "Codicred": "98F43-02",
+    "Horarios": "3FG",
+    "Professor": "Karina",
+    "Turma": 4,
+}
+{
+    "Alunos": [],
+    "Codicred": "98F44-04",
+    "Horarios": "2HI4HI",
+    "Professor": "Filipe",
+    "Turma": 20,
+}
+{
+    "Alunos": [],
+    "Codicred": "98G00-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Sergio",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98G02-04",
+    "Horarios": "4AB6AB",
+    "Professor": "Iacana",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98G03-04",
+    "Horarios": "4CD6CD",
+    "Professor": "César",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98G03-04",
+    "Horarios": "4CD6CD",
+    "Professor": "Miguel",
+    "Turma": 11,
+}
+{
+    "Alunos": [],
+    "Codicred": "98G03-04",
+    "Horarios": "4CD6CD",
+    "Professor": "Iacana",
+    "Turma": 12,
+}
+{
+    "Alunos": [],
+    "Codicred": "98G04-02",
+    "Horarios": "6JK",
+    "Professor": "Sergio",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98G05-04",
+    "Horarios": "2JK4JK",
+    "Professor": "César",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98G06-02",
+    "Horarios": "2JK",
+    "Professor": "Sergio",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98G08-04",
+    "Horarios": "6JK6LM",
+    "Professor": "Iacana",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98H00-04",
+    "Horarios": "2NP4NP",
+    "Professor": "Eduardo",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98H00-04",
+    "Horarios": "2NP4NP",
+    "Professor": "Denise",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98H00-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Denise",
+    "Turma": 32,
+}
+{
+    "Alunos": [],
+    "Codicred": "98H01-04",
+    "Horarios": "2CD4CD",
+    "Professor": "Lucas",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98H01-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Luan",
+    "Turma": 31,
+}
+{
+    "Alunos": [
+        {"Matricula": 21201018, "Nome": "Carla da Silva"},
+        {"Matricula": 22280018, "Nome": "Solange da Silva"},
+    ],
+    "Codicred": "98H03-04",
+    "Horarios": "3AB5AB",
+    "Professor": "Otavio",
+    "Turma": 10,
+}
+{
+    "Alunos": [
+        {"Matricula": 21112046, "Nome": "Tiago da Silva"},
+        {"Matricula": 21112192, "Nome": "Vanessa da Silva"},
+    ],
+    "Codicred": "98H04-06",
+    "Horarios": "2CD4CD6CD",
+    "Professor": "Dalvan",
+    "Turma": 10,
+}
+{
+    "Alunos": [],
+    "Codicred": "98H05-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Duncan",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98H06-02",
+    "Horarios": "6LM",
+    "Professor": "Daniel",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98H06-02",
+    "Horarios": "6LM",
+    "Professor": "Dalvan",
+    "Turma": 31,
+}
+{
+    "Alunos": [],
+    "Codicred": "98H07-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Isabel",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98H08-04",
+    "Horarios": "3JK5JK",
+    "Professor": "Rafael",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98H09-04",
+    "Horarios": "3NP5NP",
+    "Professor": "Lucas",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98H10-04",
+    "Horarios": "2LM4LM",
+    "Professor": "Silvia",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98H11-02",
+    "Horarios": "6NP",
+    "Professor": "Rafael",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98H12-04",
+    "Horarios": "4NP6NP",
+    "Professor": "Daniela",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98H13-04",
+    "Horarios": "3LM5LM",
+    "Professor": "Lucas",
+    "Turma": 30,
+}
+{
+    "Alunos": [],
+    "Codicred": "98H14-02",
+    "Horarios": "6LM",
+    "Professor": "Luan",
+    "Turma": 30,
+}
+{
+    "Alunos": [{"Matricula": 23102628, "Nome": "Pedro Fam Haggstram"}],
+    "Codicred": "98902-02",
+    "Horarios": "2CD",
+    "Professor": "Duncan",
+    "Turma": 10,
+}
